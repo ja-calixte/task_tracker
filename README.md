@@ -1,10 +1,10 @@
-# Task Tracker
-# https://roadmap.sh/projects/task-tracker
+Task Tracker
+https://roadmap.sh/projects/task-tracker
 
-# FEATURES
-# 1. Add, Update, and Delete tasks
-Mark a task as in progress or done
-List all tasks
-List all tasks that are done
-List all tasks that are not done
-List all tasks that are in progress
+FEATURES
+1. Add, Update, and Delete tasks
+2. Mark a task as in progress or done
+3. List all tasks
+4. List all tasks that are done
+5. List all tasks that are not done
+6. List all tasks that are in progress
